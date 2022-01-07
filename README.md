@@ -16,6 +16,10 @@ This demonstrates the functionalities of axios API using IavaScript.
 
     code .
     
+  Install dependencies
+
+    npm install
+    
   Open index.html with Live server
   
 # Screenshot
