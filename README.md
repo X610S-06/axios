@@ -1,6 +1,6 @@
 # Axios
 
-This demonstrates the functionalities of axios API using IavaScript.
+This demonstrates the functionalities of axios API using JavaScript.
 
 # Clone and Use 
 
@@ -25,4 +25,6 @@ This demonstrates the functionalities of axios API using IavaScript.
 # Screenshot
 
 ![image](https://user-images.githubusercontent.com/37767811/148608223-679aa936-ae38-4be4-baed-e48f9f2a6802.png)
+
+
 
